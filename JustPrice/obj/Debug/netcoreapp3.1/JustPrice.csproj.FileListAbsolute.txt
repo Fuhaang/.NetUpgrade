@@ -1,0 +1,13 @@
+D:\INFO\CSharp\Apprentissage\JustPrice\bin\Debug\netcoreapp3.1\JustPrice.exe
+D:\INFO\CSharp\Apprentissage\JustPrice\bin\Debug\netcoreapp3.1\JustPrice.deps.json
+D:\INFO\CSharp\Apprentissage\JustPrice\bin\Debug\netcoreapp3.1\JustPrice.runtimeconfig.json
+D:\INFO\CSharp\Apprentissage\JustPrice\bin\Debug\netcoreapp3.1\JustPrice.runtimeconfig.dev.json
+D:\INFO\CSharp\Apprentissage\JustPrice\bin\Debug\netcoreapp3.1\JustPrice.dll
+D:\INFO\CSharp\Apprentissage\JustPrice\bin\Debug\netcoreapp3.1\JustPrice.pdb
+D:\INFO\CSharp\Apprentissage\JustPrice\obj\Debug\netcoreapp3.1\JustPrice.csprojAssemblyReference.cache
+D:\INFO\CSharp\Apprentissage\JustPrice\obj\Debug\netcoreapp3.1\JustPrice.AssemblyInfoInputs.cache
+D:\INFO\CSharp\Apprentissage\JustPrice\obj\Debug\netcoreapp3.1\JustPrice.AssemblyInfo.cs
+D:\INFO\CSharp\Apprentissage\JustPrice\obj\Debug\netcoreapp3.1\JustPrice.dll
+D:\INFO\CSharp\Apprentissage\JustPrice\obj\Debug\netcoreapp3.1\JustPrice.pdb
+D:\INFO\CSharp\Apprentissage\JustPrice\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\INFO\CSharp\Apprentissage\JustPrice\obj\Debug\netcoreapp3.1\JustPrice.csproj.CopyComplete

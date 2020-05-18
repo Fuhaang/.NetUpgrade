@@ -1,0 +1,15 @@
+D:\INFO\CSharp\Apprentissage\BlindTest\obj\Debug\netcoreapp3.1\BlindTest.csprojAssemblyReference.cache
+D:\INFO\CSharp\Apprentissage\BlindTest\obj\Debug\netcoreapp3.1\BlindTest.AssemblyInfoInputs.cache
+D:\INFO\CSharp\Apprentissage\BlindTest\obj\Debug\netcoreapp3.1\BlindTest.AssemblyInfo.cs
+D:\INFO\CSharp\Apprentissage\BlindTest\bin\Debug\netcoreapp3.1\BlindTest.exe
+D:\INFO\CSharp\Apprentissage\BlindTest\bin\Debug\netcoreapp3.1\BlindTest.deps.json
+D:\INFO\CSharp\Apprentissage\BlindTest\bin\Debug\netcoreapp3.1\BlindTest.runtimeconfig.json
+D:\INFO\CSharp\Apprentissage\BlindTest\bin\Debug\netcoreapp3.1\BlindTest.runtimeconfig.dev.json
+D:\INFO\CSharp\Apprentissage\BlindTest\bin\Debug\netcoreapp3.1\BlindTest.dll
+D:\INFO\CSharp\Apprentissage\BlindTest\bin\Debug\netcoreapp3.1\BlindTest.pdb
+D:\INFO\CSharp\Apprentissage\BlindTest\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\INFO\CSharp\Apprentissage\BlindTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\INFO\CSharp\Apprentissage\BlindTest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\INFO\CSharp\Apprentissage\BlindTest\obj\Debug\netcoreapp3.1\BlindTest.csproj.CopyComplete
+D:\INFO\CSharp\Apprentissage\BlindTest\obj\Debug\netcoreapp3.1\BlindTest.dll
+D:\INFO\CSharp\Apprentissage\BlindTest\obj\Debug\netcoreapp3.1\BlindTest.pdb

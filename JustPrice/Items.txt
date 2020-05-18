@@ -1,0 +1,1 @@
+[{"Name":"A","Description":"blabla","Price":12,"MinPrice":0,"MaxPrice":20},{"Name":"Vélo","Description":"2 roues, 2 pédales","Price":150,"MinPrice":50,"MaxPrice":200},{"Name":"A","Description":"blabla","Price":12,"MinPrice":0,"MaxPrice":20},{"Name":"Vélo","Description":"2 roues, 2 pédales","Price":150,"MinPrice":50,"MaxPrice":200}]

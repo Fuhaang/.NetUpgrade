@@ -1,0 +1,15 @@
+D:\INFO\CSharp\Apprentissage\HttpClientSample\bin\Debug\netcoreapp3.1\HttpClientSample.exe
+D:\INFO\CSharp\Apprentissage\HttpClientSample\bin\Debug\netcoreapp3.1\HttpClientSample.dll
+D:\INFO\CSharp\Apprentissage\HttpClientSample\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\INFO\CSharp\Apprentissage\HttpClientSample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\INFO\CSharp\Apprentissage\HttpClientSample\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\INFO\CSharp\Apprentissage\HttpClientSample\obj\Debug\netcoreapp3.1\HttpClientSample.AssemblyInfoInputs.cache
+D:\INFO\CSharp\Apprentissage\HttpClientSample\obj\Debug\netcoreapp3.1\HttpClientSample.AssemblyInfo.cs
+D:\INFO\CSharp\Apprentissage\HttpClientSample\obj\Debug\netcoreapp3.1\HttpClientSample.csproj.CopyComplete
+D:\INFO\CSharp\Apprentissage\HttpClientSample\obj\Debug\netcoreapp3.1\HttpClientSample.dll
+D:\INFO\CSharp\Apprentissage\HttpClientSample\obj\Debug\netcoreapp3.1\HttpClientSample.pdb
+D:\INFO\CSharp\Apprentissage\HttpClientSample\obj\Debug\netcoreapp3.1\HttpClientSample.csprojAssemblyReference.cache
+D:\INFO\CSharp\Apprentissage\HttpClientSample\bin\Debug\netcoreapp3.1\HttpClientSample.deps.json
+D:\INFO\CSharp\Apprentissage\HttpClientSample\bin\Debug\netcoreapp3.1\HttpClientSample.runtimeconfig.json
+D:\INFO\CSharp\Apprentissage\HttpClientSample\bin\Debug\netcoreapp3.1\HttpClientSample.runtimeconfig.dev.json
+D:\INFO\CSharp\Apprentissage\HttpClientSample\bin\Debug\netcoreapp3.1\HttpClientSample.pdb
